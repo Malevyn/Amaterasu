@@ -10,7 +10,7 @@
         "settingsMigrator": "settings_migrator.js",
         "reloadable": true
     },
-    "servers": [],
+    "servers": ["https://raw.githubusercontent.com/Malevyn/Amaterasu/master/"],
     "drmKey": " ",
     "disableAutoUpdate": false
 }
