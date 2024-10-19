@@ -1,0 +1,23 @@
+{
+    "files": {
+        "LICENSE": "00e4ee7175e02e4c3d956b61ffbc853e41929431b302aa4b116bcca818381601",
+        "README.md": "99a16fa1b573683d4c67a8a84a1ffc88e4c7f4d629aaf3b41c883c1a1bd1282d",
+        "config.json": "893bed4e4229881fc64d478076a039e502a1bbb0e4079ebd3fba5a9e33f43e03",
+        "index.js": "c93ea669e9f7f2bb2e606ed1188e353c802499edf890bf6fe0243dd46df5466a",
+        "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
+        "module.json": "a4b8bf97dc9ded1524b9202236dfba7b57914e049da5c160f1e2a5e18c610366",
+        "settings_migrator.js": "2a5a113fbcfde8866b6f2737fd30bfb845b90a05d4675e3d394f2ad7daac7c6e",
+        "skills.js": "e71aabd2ba93e4b2f5d245a2e5f9279de25fb5b37d7f194f5031c8f3320f0691"
+    },
+    "defs": {
+        "C_CANCEL_SKILL": 3,
+        "C_PRESS_SKILL": 4,
+        "C_START_INSTANCE_SKILL": 7,
+        "C_START_SKILL": 7,
+        "C_START_TARGETED_SKILL": 7,
+        "S_ACTION_END": 5,
+        "S_ACTION_STAGE": 9,
+        "S_CANNOT_START_SKILL": 4,
+        "S_EACH_SKILL_RESULT": 14
+    }
+}

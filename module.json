@@ -1,0 +1,16 @@
+{
+    "name": "Amaterasu",
+    "author": " <font color='#C53434'>Ace</font>",
+    "description": "Priest go brr",
+    "options": {
+        "cliName": "Amaterasu",
+        "guiName": "<font color='#FF2800'>Amaterasu</font>",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "reloadable": true
+    },
+    "servers": [],
+    "drmKey": " ",
+    "disableAutoUpdate": false
+}
